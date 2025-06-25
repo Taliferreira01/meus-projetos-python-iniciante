@@ -5,7 +5,8 @@ Meu objetivo é aprender programação e, futuramente, avaliar meu desempenho e 
 
 Estou focando em construir uma base sólida para me tornar uma engenheira de dados.
 
-Olá! 👋
+__Olá!__ 👋
+
 Este é um espaço para organizar meus estudos de programação em Python, rumo ao meu objetivo de me tornar uma Engenheira de Dados.
 
 Sobre mim
