@@ -5,7 +5,7 @@ Meu objetivo é aprender programação e, futuramente, avaliar meu desempenho e 
 
 Estou focando em construir uma base sólida para me tornar uma engenheira de dados.
 
-## Olá! 👋
+Olá! 👋
 Este é um espaço para organizar meus estudos de programação em Python, rumo ao meu objetivo de me tornar uma Engenheira de Dados.
 
 Sobre mim
@@ -18,14 +18,13 @@ Quero entender como coletar, processar, transformar e analisar dados de forma ef
 Por que Python?
 Python é a linguagem mais usada em engenharia de dados e ciência de dados porque:
 
+*° É simples e fácil para iniciantes.*
 
-*É simples e fácil para iniciantes.*
+*° Tem bibliotecas poderosas para manipulação de dados (Pandas, NumPy).*
 
-Tem bibliotecas poderosas para manipulação de dados (Pandas, NumPy).
+*° Integra com bancos de dados, ferramentas de Big Data e nuvem.*
 
-Integra com bancos de dados, ferramentas de Big Data e nuvem.
-
-Suporta automação, machine learning e muito mais.
+*° Suporta automação, machine learning e muito mais.*
 
 O que estou estudando?
 Fundamentos de lógica de programação: variáveis, tipos, estruturas condicionais (if, else), loops (for, while).
