@@ -3,12 +3,12 @@
 # para realizar contagens progressiva (de 0 a 10) e regressiva (de 10 a 0)
 
 while True:
-    print('*---------------------------------------*')
+    print("*---------------------------------------*")
     print("| Faça sua escolha !                    |")
     print("| Pressione 1 para contar (0 a 10)      |")
     print("| Pressione 2 para contar de (10 a 0)   |")
     print("| Pressione 3 para sair                 |")
-    print('*---------------------------------------*')
+    print("*---------------------------------------*")
 #interação para o usuário
     resposta = int(input("Qual sua escolha? "))
 #inicio, com contagem progressiva
