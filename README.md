@@ -18,7 +18,8 @@ Quero entender como coletar, processar, transformar e analisar dados de forma ef
 Por que Python?
 Python é a linguagem mais usada em engenharia de dados e ciência de dados porque:
 
-É simples e fácil para iniciantes.
+
+*É simples e fácil para iniciantes.*
 
 Tem bibliotecas poderosas para manipulação de dados (Pandas, NumPy).
 
